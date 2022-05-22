@@ -26,7 +26,7 @@ Follow us, we know the path,
 
 ## Explorer
 
-- Ethereum Mainnet :link: <a href="https://etherscan.io/enslookup-search?search=z1a1.eth" target="_new">**Z1A1.eth**</a>
+- Ethereum Mainnet :link: <a href="[https://etherscan.io/enslookup-search?search=z1a1.eth](https://etherscan.io/nft/0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85/58050192225048926913785034260348751463285115245855762531897562697858436811548)" target="_new">**Z1A1.eth**</a>
 
 ## Official Website
 - Z1A1 :link: <a href="https://z1a1.eth.limo" target="_new">**Website**</a>
