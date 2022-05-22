@@ -1,4 +1,6 @@
-# Z1A1
+# Z1A1 
+
+Z1A1 is your unique assistant through your journey of web3 (DeCentralized).
 
 z1a1.eth manages the Z1A1 website at https://z1a1.eth.limo & https://z1a1.eth.link on IPFS via Fleek.
 
@@ -6,7 +8,7 @@ z1a1.eth manages the Z1A1 website at https://z1a1.eth.limo & https://z1a1.eth.li
 
 Follow us, we know the path,
 
-> We are the **Z1A1**.
+> A day is an asset, but today is not. Today is the Future itself. Do not be late for the DeCentralized web, aka web3. We are the **Z1A1**.
 
 ## Key Points
 
