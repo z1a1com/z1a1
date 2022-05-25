@@ -1,4 +1,4 @@
-# Z1A1 
+# Z1A1 [web3 - DeCentralized - dWebsite] 
 
 Z1A1 is your unique assistant through your journey of web3 (DeCentralized).
 
@@ -14,7 +14,9 @@ Follow us, we know the path,
 
 - :x: ~CENSOR~ : An ENS powered domain on IPFS **CAN NOT** censored.
 
-- :white_check_mark: **ALWAYS ON** : The Cloudflare CDNs and IPFS (The InterPlanetary File System) power the Distributed Web.
+- :white_check_mark: **ALWAYS ON** : The Cloudflare CDNs and IPFS (The InterPlanetary File System) power the Distributed Web. 
+
+- :white_check_mark: **HOST FREE** : You **do not** need an Hosting.
 
 
 ## General Information
