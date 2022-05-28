@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.e2b7f1ac.chunk.css",
-  "main.js": "/static/js/main.09da3c4a.chunk.js",
-  "main.js.map": "/static/js/main.09da3c4a.chunk.js.map",
+  "main.js": "/static/js/main.0255397c.chunk.js",
+  "main.js.map": "/static/js/main.0255397c.chunk.js.map",
   "static/js/1.aea4a5bd.chunk.js": "/static/js/1.aea4a5bd.chunk.js",
   "static/js/1.aea4a5bd.chunk.js.map": "/static/js/1.aea4a5bd.chunk.js.map",
   "static/css/2.2ff615f8.chunk.css": "/static/css/2.2ff615f8.chunk.css",
@@ -10,15 +10,15 @@
   "runtime~main.js": "/static/js/runtime~main.08ab0d56.js",
   "runtime~main.js.map": "/static/js/runtime~main.08ab0d56.js.map",
   "static/media/z1a1-800-600.webp": "/static/media/z1a1-800-600.05083c81.webp",
-  "static/media/eth-800-600.webp": "/static/media/eth-800-600.d5a69c94.webp",
+  "static/media/eth-800-600.webp": "/static/media/eth-800-600.879b7ded.webp",
   "static/media/vault-800-600.webp": "/static/media/vault-800-600.fb656e7b.webp",
   "static/media/ipfs-800-600.webp": "/static/media/ipfs-800-600.bc7c53b9.webp",
   "static/media/pwa-800-600.webp": "/static/media/pwa-800-600.0e712054.webp",
   "static/media/web-800-600.webp": "/static/media/web-800-600.7eb902a9.webp",
   "static/media/error-page-1920-1240.webp": "/static/media/error-page-1920-1240.87d3647d.webp",
-  "static/css/main.e2b7f1ac.chunk.css.map": "/static/css/main.e2b7f1ac.chunk.css.map",
   "static/css/2.2ff615f8.chunk.css.map": "/static/css/2.2ff615f8.chunk.css.map",
+  "static/css/main.e2b7f1ac.chunk.css.map": "/static/css/main.e2b7f1ac.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.b6928dfbd769feeae85ef932a38d2c65.js": "/precache-manifest.b6928dfbd769feeae85ef932a38d2c65.js",
+  "precache-manifest.97889116885c7abf8b93d55f3d863956.js": "/precache-manifest.97889116885c7abf8b93d55f3d863956.js",
   "service-worker.js": "/service-worker.js"
 }
