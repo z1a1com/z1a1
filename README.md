@@ -1,4 +1,4 @@
-# Z1A1 [web3 - DeCentralized - dWebsite] 
+# Z1A1.eth [web3 - DeCentralized - dWebsite] 
 
 Z1A1 is your unique assistant through your journey of web3 (DeCentralized).
 
